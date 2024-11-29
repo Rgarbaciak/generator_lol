@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random_champion_lol/static/css/main.e6c13ad2.css",
+    "main.js": "/random_champion_lol/static/js/main.2cba91e8.js",
+    "index.html": "/random_champion_lol/index.html",
+    "main.e6c13ad2.css.map": "/random_champion_lol/static/css/main.e6c13ad2.css.map",
+    "main.2cba91e8.js.map": "/random_champion_lol/static/js/main.2cba91e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2cba91e8.js"
+  ]
+}
